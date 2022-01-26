@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm <a href="https://www.kaggle.com/sumansahoo16">Suman</a>.<br> I'm a Math Major from BIT, Mesra.<br><br>#Kaggler, #ComputerVison, #PyTorch, #Tensorflow</samp>
+  <samp>Hello there. I'm <a href="https://www.kaggle.com/sumansahoo16">Suman</a>.<br> I'm a Math Major from BIT, Mesra.<br><br>#Kaggler, #ComputerVison, #PyTorch, #TensorFlow</samp>
   <br>
   <br>
   <br>
