@@ -4,8 +4,8 @@
   <br>
   <br>
   <samp> Hello there. I'm <a href="https://www.kaggle.com/sumansahoo16">Suman</a>.<br>
-    I'm a Math Major from BIT Mesra.<br><br>
-    #Kaggler, #ML, #ComputerVison, #PyTorch
+    A Math & Computing Grad, BIT Mesra.<br><br>
+    Python, ML, Deep Learning, PyTorch, LaTeX
   </samp>
   <br>
   <br>
