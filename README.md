@@ -8,9 +8,6 @@
     #Kaggler, #ML, #ComputerVison, #PyTorch
   </samp>
   <br>
-  <br>
-  <br>
-  <br>
   <img src="https://github.com/sumansahoo16/sumansahoo16/blob/main/preview.gif" width="350" />
 </p>
 
